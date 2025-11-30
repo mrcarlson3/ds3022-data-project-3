@@ -9,9 +9,12 @@
 
 ## Challenges / Obstacles
 
-- visualization challenges: difficulty generalizing reusable code for graphs using matplotlib for all packages
+<!-- - visualization challenges: difficulty generalizing reusable code for graphs using matplotlib for all packages
 - query specifications: syntax specifications not in prior knowledge of developers, learned through external sources on internet 
-- Used duckdb to help with saving the data into a database to query more easily
+- Used duckdb to help with saving the data into a database to query more easily -->
+
+For visualization challenges, we had difficulty generalizing reusable code for graphs using matplotlib for all packages. For query specifications, the syntax specifications were not in prior knowledge of developers. With these challenges, we learned through external sources on internet and tried to use familiar tactics, like duckdb to help with saving the data into a database to query more easily.
+
 
 ## Analysis
 
